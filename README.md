@@ -9,6 +9,3 @@
 - Regresión logística 
 
 **SEGUNDA PARTE** se centra simplemente en una recomendación de como poder ir más allá de este primer modelo y genera una solución que permita asignar tasas de interés a cada cliente.
-
-
-**IMPORTANTE:** Dado que ya se esta planteando que exista distintas tasas de interés optaremos
